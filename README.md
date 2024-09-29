@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Django and Flask**
 
-- 🎺 Also interested in **film, art and storytelling**
+- 🎬 Also interested in **film, art and storytelling**
 
 - ✉ Reach me at: **kreska323@gmail.com**
 
