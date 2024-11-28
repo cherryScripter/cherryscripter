@@ -10,6 +10,7 @@
 - ✉ Reach me at: **kreska323@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/agata-pisiewicz-14262033a/
 <p align="left">
 </p>
 
