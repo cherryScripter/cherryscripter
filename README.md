@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
 <h3 align="center">A backend developer from Poland with a keen enthusiasm for coding</h3>
 
-- 🔭 I’m currently working on **Soy Candles E-commerce store**
+- 🔭 Check out my **Soy Candles E-commerce store** <a href="django-ecom-candles-production.up.railway.app">
+  
+- 🔭 I’m currently working on
 
 - 🌱 I’m currently learning **Python, Django and Flask**
 
