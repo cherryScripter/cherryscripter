@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
 <h3 align="center">A backend developer from Poland with a keen enthusiasm for coding</h3>
 
-- 🛍️ Check out my Django <a href="https://django-ecom-candles-production.up.railway.app/">**Soy Candle E-commerce store**</a>
+- 🛒 Check out my Django <a href="https://django-ecom-candles-production.up.railway.app/">**Soy Candle E-commerce store**</a>
   
-- 🔭 I’m currently working on a simple **To-Do List Website** in Flask
+- 📝 I’m currently working on a simple **To-Do List Website** in Flask
 
-- 🌱 I’m currently learning **Python, Django and Flask**
+- 🎓 I’m currently learning **Python, Django and Flask**
 
 - 🎬 Also interested in **film, art and storytelling**
 
